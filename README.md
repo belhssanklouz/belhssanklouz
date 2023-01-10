@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **belhssanklouz@gmail.com**
 
-- 📄 Know about my experiences [https://www.docdroid.net/PNUbd6b/cv-belhssan-klouz-pdf](<svg class="icon icon-profile"><use xlink:href="#icon-profile"></use></svg>)
+- 📄 Know about my experiences [https://www.docdroid.net/PNUbd6b/cv-belhssan-klouz-pdf](https://www.docdroid.net/PNUbd6b/cv-belhssan-klouz-pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
